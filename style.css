@@ -1,0 +1,25 @@
+* {
+  background-color: aquamarine;
+}
+#red {
+  color: red;
+}
+#blue {
+  color: rgb(81, 135, 251);
+}
+#orange {
+  color: rgb(203, 132, 0);
+}
+#green {
+  color: rgb(0, 80, 0);
+}
+#yellow {
+  color: rgb(207, 207, 2);
+}
+.color-title {
+  font-weight: normal;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
